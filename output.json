@@ -1,0 +1,72 @@
+{
+    "results": [
+        {
+            "original_text": "dentist appointment on Thursday at 3pm",
+            "extracted_entities": {
+                "task": "Dentist appointment",
+                "participants": [],
+                "date": "2025-03-27",
+                "time": "15:00",
+                "end_time": null,
+                "locations": []
+            }
+        },
+        {
+            "original_text": "pick up groceries on Saturday morning",
+            "extracted_entities": {
+                "task": "Pick groceries",
+                "participants": [],
+                "date": "2025-03-29",
+                "time": null,
+                "end_time": null,
+                "locations": []
+            }
+        },
+        {
+            "original_text": "call Ann regarding project update on Sunday at noon",
+            "extracted_entities": {
+                "task": "Call regarding project update",
+                "participants": [
+                    "Ann"
+                ],
+                "date": "2025-03-30",
+                "time": "12:00",
+                "end_time": null,
+                "locations": []
+            }
+        },
+        {
+            "original_text": "gym workout at 6am tomorrow",
+            "extracted_entities": {
+                "task": "Gym workout tomorrow",
+                "participants": [],
+                "date": "2025-03-30",
+                "time": "06:00",
+                "end_time": null,
+                "locations": []
+            }
+        },
+        {
+            "original_text": "plan birthday party for friend on next Friday",
+            "extracted_entities": {
+                "task": "Plan birthday party friend",
+                "participants": [],
+                "date": "2025-03-28",
+                "time": null,
+                "end_time": null,
+                "locations": []
+            }
+        },
+        {
+            "original_text": "complete online course module by midnight",
+            "extracted_entities": {
+                "task": "Complete online course module",
+                "participants": [],
+                "date": null,
+                "time": "00:00",
+                "end_time": null,
+                "locations": []
+            }
+        }
+    ]
+}
